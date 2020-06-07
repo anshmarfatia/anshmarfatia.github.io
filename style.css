@@ -17,4 +17,8 @@ body{
 	font-family: 'Roboto Slab', serif;
 }
 
-
+img{
+	height: 400px;
+	width: 350px;
+	margin-top: 20px;
+}
